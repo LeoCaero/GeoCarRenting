@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3675925925925926" />
+        <entry key="app/src/main/res/drawable-v24/button1_bg.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable-v24/ic_back.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable-v24/ic_facebook.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable-v24/ic_lock.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable-v24/ic_mail.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable-v24/ic_person.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable-v24/ic_phone.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable-v24/ic_plus.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable-v24/ic_twitter.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable/bottombar.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/custom_card.xml" value="0.2415" />
+        <entry key="app/src/main/res/drawable/custom_card2.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable/custom_inward_corner.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable/divider2.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable/divider3.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_cardoor.xml" value="0.1915" />
+        <entry key="app/src/main/res/drawable/ic_drama.xml" value="0.274" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3435" />
+        <entry key="app/src/main/res/drawable/ic_location_pin_008_1_.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/ic_music.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable/ic_name.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable/ic_resource_continue.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/ic_seat.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/ic_star.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/ic_ticket.xml" value="0.2045" />
+        <entry key="app/src/main/res/drawable/ic_transmission.xml" value="0.1915" />
+        <entry key="app/src/main/res/drawable/image_border.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/rounded.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable/rounded_button.xml" value="0.3085" />
+        <entry key="app/src/main/res/drawable/testsxml.xml" value="0.2545" />
+        <entry key="app/src/main/res/drawable/testtttt.xml" value="0.2545" />
+        <entry key="app/src/main/res/layout/activity_car_info.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_forbidden_password.xml" value="0.33967391304347827" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33967391304347827" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.36772486772486773" />
+        <entry key="app/src/main/res/layout/activity_user_info.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/card_view.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/small_car_card.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
